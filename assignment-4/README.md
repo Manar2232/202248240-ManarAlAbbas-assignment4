@@ -1,12 +1,14 @@
 # Project Description
 Personal portfolio webpage showcasing profile, skills, projects,GitHub and a contact form. Built with HTML, CSS, and JavaScript.
+# Presentation Video
+- https://drive.google.com/file/d/1sX-V-2KN-Z591LcJ7jA3R-KIpJ3OhjC6/view?usp=sharing
 
 # Setup Instructions
 - Clone the repository:
 git clone https://github.com/Manar2232/assignment-4.git.
 - Open index.html in a browser.
 - Ensure style.css, script.js, and the images/ folder are in the same directory.
-or open the link https://portfolio-d7423f.netlify.app/
+- or open the link https://portfolio-d7423f.netlify.app/
 
 # AI Usage Summary
 AI was used for:
